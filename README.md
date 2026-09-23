@@ -3,7 +3,6 @@ Design and Implementation of a Push-Button-Controlled Buzzer and Speaker Using A
 # Design and Implementation of a Push-Button-Controlled Buzzer and Speaker Using AT89C51 Microcontroller
 
 ## Aim
-
 To interface a push button, buzzer, and speaker with the AT89C51 microcontroller and activate the audible indicators when the button is pressed.
 
 ## Components Required
